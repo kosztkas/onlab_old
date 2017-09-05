@@ -6,4 +6,5 @@ Feladatom  a  téma  során,  hogy  megismerkedjek  az  SDN  hálózatok  monito
 
 ## A mérési környezet
 Mininetben szimulálva a python scriptekben definiált topológia.
-![] (https://user-images.githubusercontent.com/9111908/30052996-98826d0c-9227-11e7-8618-bed972ba1c3a.png)
+
+![](https://user-images.githubusercontent.com/9111908/30052996-98826d0c-9227-11e7-8618-bed972ba1c3a.png)
