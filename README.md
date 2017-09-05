@@ -9,7 +9,7 @@ Mininetben szimulálva a python scriptekben definiált topológia.
 ```
        h1
        |
-h2 <-> s1 <-> s2 <-> h3
+h2 -- s1 ---- s2 -- h3
        |   X   |
        s3      s4
        |       |
